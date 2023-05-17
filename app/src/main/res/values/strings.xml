@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="gmail">Gmail</string>
+    <string name="followers">Followers :</string>
+    <string name="logout">Logout</string>
+    <string name="friends">Friends :</string>
+    <string name="login">Login</string>
+    <string name="social_media_integration">Social Media Integration</string>
+    <string name="birthdate">Birthdate :</string>
+    <string name="gender">Gender :</string>
+
+
+    <string name="facebook_app_id">388459519907460</string>
+    <string name="fb_login_protocol_scheme">fb388459519907460</string>
+    <string name="facebook_client_token">5fc352bf596ce49aabd0bb243f08c540</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="choose_your_sign_in_option">Choose your Sign In Option</string>
+    <string name="developed_by_androidman">Developed By AndroidMan</string>
+
+</resources>
